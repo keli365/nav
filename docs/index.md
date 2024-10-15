@@ -3,9 +3,9 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
-  tagline: 基于 VitePress 的个人前端导航页面模板
+  name: 巧克力的
+  text: 个人知识笔记
+  tagline: 以巧克力，以力胜巧，推陈出新！
   image:
     src: /logo.png
     alt: 茂茂物语
