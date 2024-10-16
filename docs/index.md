@@ -8,10 +8,10 @@ hero:
   tagline: 以巧克力，以力胜巧，推陈出新！
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: Keli365
   actions:
-    - text: 茂茂物语
-      link: https://notes.fe-mm.com
+    - text: 信奥之路
+      link: https://workspace.dingtalk.com/c5AmLp33nGibaE37hUH1hw
     - text: 前端导航
       link: /nav/
       theme: alt
@@ -22,10 +22,10 @@ hero:
       theme: alt
 features:
   - icon: 📖
-    title: 前端物语
-    details: 整理前端常用知识点<small>（面试八股文）</small><br />如有异议按你的理解为主，不接受反驳
-    link: https://notes.fe-mm.com/fe/javascript/types
-    linkText: 前端常用知识
+    title: 信奥之路
+    details: 整理学习C++的常用知识点，帮助各位同学更好的学习练习。
+    link: https://workspace.dingtalk.com/c5AmLp33nGibaE37hUH1hw
+    linkText: C++学习知识
   - icon: 📘
     title: 源码阅读
     details: 了解各种库的实现原理<br />学习其中的小技巧和冷知识
